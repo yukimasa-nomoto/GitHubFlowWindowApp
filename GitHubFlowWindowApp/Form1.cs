@@ -11,5 +11,10 @@ namespace GitHubFlowWindowApp
         {
             MessageBox.Show("ƒ{ƒ^ƒ“1");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("button2");
+        }
     }
 }
